@@ -1,3 +1,10 @@
+## [0.1.1](https://github.com/miaoxing/mxjs-icons/compare/v0.1.0...v0.1.1) (2021-03-12)
+
+
+### Bug Fixes
+
+* 更新前端包依赖 ([f779df4](https://github.com/miaoxing/mxjs-icons/commit/f779df4c35571e977a35510eaeec913ba27a985a))
+
 # 0.1.0 (2020-07-30)
 
 
