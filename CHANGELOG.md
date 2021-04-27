@@ -1,3 +1,10 @@
+## [0.1.2](https://github.com/miaoxing/mxjs-icons/compare/v0.1.1...v0.1.2) (2021-04-27)
+
+
+### Features
+
+* 增加 `external-link` 和 `popup` 图标 ([4ca1119](https://github.com/miaoxing/mxjs-icons/commit/4ca1119f83aa1ca9de0c98a0c097c1b7695dfd83))
+
 ## [0.1.1](https://github.com/miaoxing/mxjs-icons/compare/v0.1.0...v0.1.1) (2021-03-12)
 
 
