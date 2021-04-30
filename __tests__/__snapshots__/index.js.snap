@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Icon basic 1`] = `
+<div>
+  <span
+    class="anticon"
+    role="img"
+  >
+    <svg
+      aria-hidden="true"
+      class=""
+      fill="currentColor"
+      focusable="false"
+      height="1em"
+      width="1em"
+    >
+      <use
+        xlink:href="#text"
+      />
+    </svg>
+  </span>
+</div>
+`;
