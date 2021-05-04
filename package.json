@@ -14,7 +14,7 @@
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "@ant-design/icons": "^4.2.1"
+    "@ant-design/icons": "^4.5.0"
   },
   "devDependencies": {
     "@miaoxing/dev": "^6.4.0",
