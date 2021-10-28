@@ -1,3 +1,23 @@
+# [0.2.0](https://github.com/miaoxing/mxjs-icons/compare/v0.1.4...v0.2.0) (2021-10-28)
+
+
+### Features
+
+* `react` 依赖移到 `peerDependencies` 中，开发依赖使用 `react` 17 ([705c003](https://github.com/miaoxing/mxjs-icons/commit/705c003249a757646edbd35ff9edccfb4a211c3f))
+
+
+### BREAKING CHANGES
+
+* `react` 依赖移到 `peerDependencies` 中，开发依赖使用 `react` 17
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `7.0.1` to `8.0.0`
+
 ## [0.1.4](https://github.com/miaoxing/mxjs-icons/compare/v0.1.3...v0.1.4) (2021-05-12)
 
 
