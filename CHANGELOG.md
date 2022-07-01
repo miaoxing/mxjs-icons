@@ -1,3 +1,18 @@
+# [1.0.0](https://github.com/miaoxing/mxjs-icons/compare/v0.2.3...v1.0.0) (2022-07-01)
+
+
+### Features
+
+* 发布 1.0.0 [release 1.0.0] ([d81af45](https://github.com/miaoxing/mxjs-icons/commit/d81af45e8870b7cd17f4e139374e03b1a9395479))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.1.1` to `8.1.2`
+
 ## [0.2.3](https://github.com/miaoxing/mxjs-icons/compare/v0.2.2...v0.2.3) (2022-06-01)
 
 
