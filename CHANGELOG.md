@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/miaoxing/mxjs-icons/compare/v1.0.8...v1.1.0) (2024-01-31)
+
+
+### Features
+
+* 更新 `react` 支持 18 ([26ac49a](https://github.com/miaoxing/mxjs-icons/commit/26ac49a6feca101703193120256f98b9b478ec59))
+
 ## [1.0.8](https://github.com/miaoxing/mxjs-icons/compare/v1.0.7...v1.0.8) (2024-01-08)
 
 
