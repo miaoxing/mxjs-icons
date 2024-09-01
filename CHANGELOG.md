@@ -1,3 +1,13 @@
+## [1.2.4](https://github.com/miaoxing/mxjs-icons/compare/v1.2.3...v1.2.4) (2024-09-01)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `9.1.3` to `9.2.0`
+
 ## [1.2.3](https://github.com/miaoxing/mxjs-icons/compare/v1.2.2...v1.2.3) (2024-08-03)
 
 
@@ -33,7 +43,7 @@
 
 ### Features
 
-* 更新 antd, antd icons 版本 ([bee80ea](https://github.com/miaoxing/mxjs-icons/commit/bee80ea9078ee0a2a91595f0deea982bd3a0e7b6))
+* 更新 antd, antd icons 版本 ([697d5e8](https://github.com/miaoxing/mxjs-icons/commit/697d5e8fd5348cd0ccf32249ca0d2e42615efbbd))
 
 # [1.1.0](https://github.com/miaoxing/mxjs-icons/compare/v1.0.8...v1.1.0) (2024-01-31)
 
